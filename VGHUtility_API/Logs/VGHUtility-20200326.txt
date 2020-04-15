@@ -1,0 +1,6 @@
+2020-03-26T08:41:09.4675966-04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-03-26T08:41:09.4855552-04:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-03-26T08:41:09.4909099-04:00  [INF] Content root path: "E:\Core_Utility\VGHUtility\VGHUtility_API" (b5d60022)
+2020-03-26T08:44:27.5628122-04:00  [INF] SendMessagetoMedia XML object :: {"Name":"TestScott","Message":"","Email":"m@vgroupholdings.com","Phone":"6352944390","Age_Range":"25","ZipCode":"91710","Closest_Center":"Ontario - LVI 78","CreatedBy":"","AppointmentDate":"01/31/2020","AppointmentTime":"11.30","Location":"Ontario","Language":"","MessageID":"","DeliversyStatus":"","Site":0} (34acd8b3)
+2020-03-26T08:44:37.4005340-04:00  [INF] Site other than 67. (4c05f1f9)
+2020-03-26T08:45:09.3593223-04:00  [INF] SendMessagetoMedia XML object :: {"Name":"TestScott","Message":"","Email":"m@vgroupholdings.com","Phone":"6352944390","Age_Range":"25","ZipCode":"91710","Closest_Center":"Ontario - LVI 78","CreatedBy":"","AppointmentDate":"01/31/2020","AppointmentTime":"11.30","Location":"Ontario","Language":"","MessageID":"","DeliversyStatus":"","Site":0} (34acd8b3)

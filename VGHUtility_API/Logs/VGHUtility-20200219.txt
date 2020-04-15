@@ -1,0 +1,6 @@
+2020-02-19T09:36:49.3408606-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-02-19T09:36:49.3642100-05:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-02-19T09:36:49.3695630-05:00  [INF] Content root path: "E:\Core_Utility\VGHUtility\VGHUtility_API" (b5d60022)
+2020-02-19T09:38:32.2733425-05:00  [INF] Send SMS Process start. (8107c6c9)
+2020-02-19T09:38:41.9964775-05:00  [INF] Web API Call Start- get ConfirmationResponse data from CRM Database. (38565357)
+2020-02-19T09:39:05.1162868-05:00  [INF] Web API Call End. (41e94745)
