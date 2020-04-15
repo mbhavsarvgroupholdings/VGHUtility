@@ -25,6 +25,7 @@ namespace VGHUtility_API.Controllers
         public ActionResult<bool> Send(string toEmail, string name, string subject, string fromName, string body, string Attachfile = "")
         {
             return SendEmail(toEmail, name, subject, body, fromName, Attachfile);
+            //
         }
         [HttpGet]
         [ActionName("SendMail")]
